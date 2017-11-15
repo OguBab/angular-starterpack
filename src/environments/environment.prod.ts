@@ -5,5 +5,5 @@
 
 export const environment = {
   production: true,
-  serverUrl: 'https://angular-starters.herokuapp.com/api/v1'
+  serverUrl: 'https://node-mongoldb-server.herokuapp.com/api/v1'
 };
